@@ -21,8 +21,8 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 <br>
 
 <kbd>Nabila</kbd>
-<li>Desain warna Dasboard page</li>
-<li>Margin button</li>
+<li>Desain color Dasboard page</li>
+<li>Desain Margin button</li>
 
 <br>
 
