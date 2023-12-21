@@ -16,7 +16,7 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 <kbd>Nur latif muhammad</kbd>
 <li>Rename page Notifikasi to History</li>
 <li>Desain XML Dasboard final</li>
-<li>Redesign UI</li>
+<li>Redesign UI Menote</li>
 
 <br>
 
@@ -36,8 +36,8 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 <kbd>Rizqdwan Dhuhakbar H</kbd>
 <li>Desain XML Dasboard page</li>
 <li>Desain XML Notifikasi(History) page</li>
-<li>⁠Desain XML Create Note page</li>
-<li>⁠Desain XML Item Note</li>
+<li>⁠Desain XML Create Note page</li>
+<li>⁠Desain XML Item Note</li>
 <li>⁠Desain XML Item Note_notif</li>
 <li>⁠Create Database local (Room database)</li>
 <li>Integrasi Database</li>
