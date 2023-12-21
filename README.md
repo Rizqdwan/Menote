@@ -43,6 +43,6 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 <li>Integrasi Database</li>
 <li>Integrasi Database to XML</li>
 <li>Desain UI Menote</li>
-<li>Redesign UI color note_bottom</li>
+<li>Redesign UI color note_bottom for change color item Note</li>
 
 
