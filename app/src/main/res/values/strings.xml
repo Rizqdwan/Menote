@@ -1,0 +1,70 @@
+<resources>
+        <string name="app_name">Menote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    <string name="dashBoard">DASHBOARD</string>-->
+    <!--    <string name="notif">NOTIF</string>-->
+    <!--    <string name="createNote">NOTE</string>-->
+
+    <string name="dashBoard"></string>
+    <string name="notif"></string>
+    <string name="createNote"></string>
+
+    <!-- HomePage -->
+    <string name="teksEmpower">Empower Your Ideas</string>
+    <string name="teksNote">Menote it Right, Anytime, Anywhere!</string>
+    <string name="teksGetMyNote">Get My Notes</string>
+
+    <!--Dashboard -->
+    <string name="title_noteapp">Menote</string>
+    <string name="search_notes">Search for Notes</string>
+    <string name="setting_btn">Settings</string>
+    <string name="delete_btn">Delete</string>
+
+    <!--History -->
+    <string name="title_notif">History</string>
+    <string name="my_notif">Massage</string>
+    <string name="my_notif2">UPDATE</string>
+    <string name="my_notif3">29-11-2023 03:00</string>
+
+    <!--Create Note-->
+    <string name="noteID">noteId</string>
+    <string name="notes_title">Untitled</string>
+    <string name="date">date</string>
+    <string name="enter_notes_here">Tap here to continue...</string>
+    <string name="title_require">Title is Required</string>
+    <string name="snackbarok">OK</string>
+    <string name="empty_note_description_warning">Notes Description Must Not Be Empty</string>
+    <string name="storage_permission_text">This App Needs access to your Storage.</string>
+    <string name="bottom_action">bottom_action</string>
+    <string name="action">action</string>
+    <string name="selected_color">selectedColor</string>
+    <string name="https">https://</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="url_require">Url is Required</string>
+    <string name="url_validation">Url is not Valid</string>
+    <string name="word_count_template">word_count</string>
+    <string name="delete">delete</string>
+
+    <string name="defaultColor">Default</string>
+    <string name="blue">Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="brown">Brown</string>
+    <string name="indigo">Indigo</string>
+    <string name="image">Image</string>
+    <string name="webUrl">WebUrl</string>
+    <string name="deleteNote">DeleteNote</string>
+
+    <!--Inside Note-->
+    <string name="my_notes">My Note</string>
+    <string name="intent_filter">bottom_sheet_action</string>
+
+
+</resources>
