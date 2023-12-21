@@ -6,7 +6,7 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 
 ### Task Per member
 
-<kbd>Reyhandri Muhammad Naufal</kbd>
+<kbd>Reyhandri muhammad naufal</kbd>
 <li>Create Splash screen page</li>
 <li>Desain XML Dashboard & Create note kasaran awal</li>
 <li>Desain Navbar awal </li>
