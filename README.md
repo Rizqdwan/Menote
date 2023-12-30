@@ -16,13 +16,6 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 
 <br>
 
-<kbd>Nur latif muhammad</kbd>
-<li>Rename page Notifikasi to History</li>
-<li>Desain XML Dasboard final</li>
-<li>Redesign UI Menote</li>
-
-<br>
-
 <kbd>Nabila</kbd>
 <li>Desain color Dasboard page</li>
 <li>Desain Margin button</li>
