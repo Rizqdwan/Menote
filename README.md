@@ -9,31 +9,6 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 
 ### Task Per member
 
-<kbd>Reyhandri muhammad naufal</kbd>
-<li>Create Splash screen page</li>
-<li>Desain XML Dashboard & Create note kasaran awal</li>
-<li>Desain Navbar awal </li>
-
-<br>
-
-<kbd>Nabila</kbd>
-<li>Desain color Dasboard page</li>
-<li>Desain Margin button</li>
-
-<br>
-
-<kbd>Nur latif muhammad</kbd>
-<li>Rename page Notifikasi to History</li>
-<li>Desain XML Dasboard final</li>
-<li>Redesign UI Menote</li>
-
-<br>
-
-<kbd>Maylaffahzya</kbd>
-<li>Desain XML Dasboard page</li>
-<li>Create logo Menote</li>
-<li>⁠Desain XML Welcome page</li>
-
 <br>
 
 <kbd>Rizqdwan Dhuhakbar H</kbd>
