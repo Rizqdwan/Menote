@@ -9,18 +9,5 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 
 ### Task Per member
 
-<br>
-
-<kbd>Rizqdwan Dhuhakbar H</kbd>
-<li>Desain XML Dasboard page</li>
-<li>Desain XML Notifikasi(History) page</li>
-<li>⁠Desain XML Create Note page</li>
-<li>⁠Desain XML Item Note</li>
-<li>⁠Desain XML Item Note_notif</li>
-<li>⁠Create Database local (Room database)</li>
-<li>Integrasi Database</li>
-<li>Integrasi Database to XML</li>
-<li>Desain UI Menote</li>
-<li>Redesign UI color note_bottom for change color item Note</li>
 
 
