@@ -8,6 +8,11 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 <h4>With Team name <kbd>Bimoli</kbd></h4>
 
 
+### Task Per member
 
-
+<kbd>Reyhandri Muhammad Naufal</kbd>
+<li>Create Splash screen page</li>
+<li>Desain XML Dashboard </li>
+<li>Create note kasaran awal</li>
+<li>Desain Navbar awal </li>
 
