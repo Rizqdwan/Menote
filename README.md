@@ -42,3 +42,8 @@ Big task from MAD (Mobile Application Development). Project is like Notes App th
 <li>Redesign UI color note_bottom for change color item Note</li>
 
 <br>
+
+<kbd>Nabila</kbd>
+<li>Desain warna Dasboard page</li>
+<li>Optimasi tampilan dan tata letak (Margin)</li>
+<li>Desain warna Create Note page</li>
